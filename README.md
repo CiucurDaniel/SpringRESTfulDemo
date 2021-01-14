@@ -1,5 +1,5 @@
 # Spring-RESTful-Demo
-A demo repository where I'm making a simple REST API with Java Spring. This repository follows the demo from ![Spring website](https://spring.io/guides/gs/rest-service/)
+A demo repository where I'm making a simple REST API with Java Spring. This repository follows the demo from [Spring website](https://spring.io/guides/gs/rest-service/)
 
 ## Steps
 
