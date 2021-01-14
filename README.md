@@ -1,5 +1,5 @@
 # Spring-RESTful-Demo
-A demo repository where I'm making a simple REST API with Java Spring. This repository follows the demo from Spring website: https://spring.io/guides/gs/rest-service/
+A demo repository where I'm making a simple REST API with Java Spring. This repository follows the demo from ![Spring website](https://spring.io/guides/gs/rest-service/)
 
 ## Steps
 
@@ -15,7 +15,7 @@ If you go on the code you will that each file has a documentation so you can und
 
 ## Final results
 
-After you finish the above steps you can go to localhost and you will se the following responses:
+After you finish the above steps you can go to localhost and you will see the following responses:
 
 **http://localhost:8080/greeting**
 
